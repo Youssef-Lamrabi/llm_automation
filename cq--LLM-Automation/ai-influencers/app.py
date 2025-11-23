@@ -8,12 +8,15 @@ import time
 import os
 
 # Configuration pour Render (important !)
-if 'RENDER' in os.environ:
-    # Sur Render, utiliser le port fourni par la variable d'environnement
-    pass
-# Add the current directory to Python path for imports
-current_dir = Path(__file__).parent
-sys.path.insert(0, str(current_dir))
+import os
+try:
+    import streamlit as st
+    # Si on est sur Streamlit Cloud, utiliser st.secrets
+    os.environ.update(st.secrets)
+except:
+    # Sinon, utiliser .env classique
+    from dotenv import load_dotenv
+    load_dotenv()
 
 # Import the agent registry
 from agents import REGISTRY, get
