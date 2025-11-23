@@ -1,0 +1,52 @@
+{
+    "Schedule": [
+        {
+            "Week": 6,
+            "Day": "Monday",
+            "Date": "2025-11-03",
+            "Time": "10:00",
+            "Content": "In tech, consistency beats intensity. Small daily improvements compound into real career growth. What habit has changed your workflow the most?",
+            "Hashtags": "#TechCareers #GrowthMindset #LinkedInCommunity"
+        },
+        {
+            "Week": 6,
+            "Day": "Thursday",
+            "Date": "2025-11-06",
+            "Time": "14:00",
+            "Content": "Automation isn't just a buzzword—it’s becoming a core skill for modern teams. The companies that invest early will outperform those that don’t. Thoughts?",
+            "Hashtags": "#Automation #FutureOfWork #Innovation"
+        },
+        {
+            "Week": 6,
+            "Day": "Saturday",
+            "Date": "2025-11-08",
+            "Time": "11:00",
+            "Content": "Today’s reminder: Learning to communicate technical ideas clearly is just as important as coding them. What’s your #1 tip for effective communication?",
+            "Hashtags": "#Leadership #TechCommunication #ProfessionalGrowth"
+        },
+        {
+            "Week": 7,
+            "Day": "Monday",
+            "Date": "2025-11-10",
+            "Time": "10:00",
+            "Content": "The best developers aren’t the ones who know everything—they’re the ones who never stop learning. What new tech is on your radar this month?",
+            "Hashtags": "#ContinuousLearning #Developers #TechTrends"
+        },
+        {
+            "Week": 7,
+            "Day": "Thursday",
+            "Date": "2025-11-13",
+            "Time": "14:00",
+            "Content": "Building scalable systems requires more than good architecture—it requires patience, iteration, and a deep understanding of the user. Thoughts?",
+            "Hashtags": "#SystemDesign #Scalability #Engineering"
+        },
+        {
+            "Week": 7,
+            "Day": "Saturday",
+            "Date": "2025-11-15",
+            "Time": "11:00",
+            "Content": "Weekend reflection: What’s the most impactful career advice you’ve ever received?",
+            "Hashtags": "#CareerGrowth #WeekendThoughts #LinkedInCommunity"
+        }
+    ]
+}

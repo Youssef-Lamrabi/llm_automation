@@ -1,0 +1,52 @@
+{
+    "Schedule": [
+        {
+            "Week": 1,
+            "Day": "Tuesday",
+            "Date": "2025-12-02",
+            "Time": "12:00",
+            "Content": "Tech aesthetic isn’t just neon lights — it’s clean code, smooth workflows, and automation doing the boring stuff.",
+            "Hashtags": "#TechAesthetic #CodingVibes #AutomationLife"
+        },
+        {
+            "Week": 1,
+            "Day": "Friday",
+            "Date": "2025-12-05",
+            "Time": "18:00",
+            "Content": "When your code finally works on the first try 😭🔥",
+            "Hashtags": "#DevLife #CodeWins #ProgrammerHumor"
+        },
+        {
+            "Week": 2,
+            "Day": "Tuesday",
+            "Date": "2025-12-09",
+            "Time": "12:00",
+            "Content": "New week, new scripts. Automate something today!",
+            "Hashtags": "#PythonDev #AutomationNation #TechDaily"
+        },
+        {
+            "Week": 2,
+            "Day": "Friday",
+            "Date": "2025-12-12",
+            "Time": "18:00",
+            "Content": "Dark mode supremacy. Always.",
+            "Hashtags": "#DarkMode #CoderLifestyle #AestheticTech"
+        },
+        {
+            "Week": 3,
+            "Day": "Tuesday",
+            "Date": "2025-12-16",
+            "Time": "12:00",
+            "Content": "Trading + automation = 24/7 moves while you sleep.",
+            "Hashtags": "#TradingTech #FinTech #GenZInvestors"
+        },
+        {
+            "Week": 3,
+            "Day": "Friday",
+            "Date": "2025-12-19",
+            "Time": "18:00",
+            "Content": "What’s your current tech obsession? 👇",
+            "Hashtags": "#TechCommunity #CodingTalk #FutureTech"
+        }
+    ]
+}

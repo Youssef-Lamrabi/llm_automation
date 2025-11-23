@@ -1,0 +1,84 @@
+{
+    "Schedule": [
+        {
+            "Week": 2,
+            "Day": "Saturday",
+            "Date": "2025-10-11",
+            "Time": "10:00",
+            "Content": "Saturday vibes: Debugging with lo-fi beats in the background. Drop your playlist recs.",
+            "Hashtags": "#CodeAndChill #GenZTech #FocusMode"
+        },
+        {
+            "Week": 3,
+            "Day": "Monday",
+            "Date": "2025-10-13",
+            "Time": "13:00",
+            "Content": "Tech aesthetic isn’t just neon lights & code streams, it’s building systems that actually work.",
+            "Hashtags": "#TechAesthetics #SystemDesign #GenZBuilders"
+        },
+        {
+            "Week": 3,
+            "Day": "Thursday",
+            "Date": "2025-10-16",
+            "Time": "16:00",
+            "Content": "If money worked 24/7, would you still chase the 9-5? Trading automation says no. ",
+            "Hashtags": "#MoneyTech #TradingRevolution #YoungInvestors"
+        },
+        {
+            "Week": 3,
+            "Day": "Saturday",
+            "Date": "2025-10-18",
+            "Time": "10:00",
+            "Content": "Weekend flex: Automating tasks you hate with a few lines of Python. 🐍",
+            "Hashtags": "#PythonDev #AutomationNation #LifeHacks"
+        },
+        {
+            "Week": 4,
+            "Day": "Monday",
+            "Date": "2025-10-20",
+            "Time": "13:00",
+            "Content": "Code reviews aren’t scary ,they’re free mentorship.  Who gave you the best feedback ever?",
+            "Hashtags": "#CodeCulture #DevGrowth #PeerLearning"
+        },
+        {
+            "Week": 4,
+            "Day": "Thursday",
+            "Date": "2025-10-23",
+            "Time": "16:00",
+            "Content": "Automation isn’t replacing humans, it’s replacing boredom. Let’s free our time.",
+            "Hashtags": "#SmartCoding #WorkSmarter #AIRevolution"
+        },
+        {
+            "Week": 4,
+            "Day": "Saturday",
+            "Date": "2025-10-25",
+            "Time": "10:00",
+            "Content": "Saturday challenge: Share your most aesthetic code screenshot.",
+            "Hashtags": "#CodeArt #GenZCoders #DevCommunity"
+        },
+        {
+            "Week": 5,
+            "Day": "Monday",
+            "Date": "2025-10-27",
+            "Time": "13:00",
+            "Content": "Why do we still use passwords? The future of security is passwordless. Discuss.",
+            "Hashtags": "#CyberSecurity #FutureTech #Passwordless"
+        },
+        {
+            "Week": 5,
+            "Day": "Thursday",
+            "Date": "2025-10-30",
+            "Time": "16:00",
+            "Content": "Just pushed a massive update and now I'm watching the logs like it's a horror movie. 😱",
+            "Hashtags": "#DevLife #ProductionDeploy #CodeStress"
+        },
+        {
+            "Week": 5,
+            "Day": "Saturday",
+            "Date": "2025-11-01",
+            "Time": "10:00",
+            "Content": "Starting the month right: What new skill are you trying to master in November?",
+            "Hashtags": "#UpSkill #GenZLearns #TechGoals"
+        }
+    ]
+}

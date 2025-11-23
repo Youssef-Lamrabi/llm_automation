@@ -1,0 +1,1 @@
+Create Reddit title and body based on the draft. Title short, body friendly and discussion-inviting.

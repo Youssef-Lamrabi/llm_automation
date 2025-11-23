@@ -1,0 +1,28 @@
+{
+    "Schedule": [
+        {
+            "Week": 1,
+            "Day": "Sunday",
+            "Date": "2025-12-07",
+            "Time": "09:00",
+            "Content": "Blog Topic: Why Automation Is Becoming the Core Skill for the Next Decade.\nSummary: Explore business efficiency, developer productivity, and modern workflow design.",
+            "Hashtags": "#Automation #FutureOfWork #TechWriting"
+        },
+        {
+            "Week": 2,
+            "Day": "Sunday",
+            "Date": "2025-12-14",
+            "Time": "09:00",
+            "Content": "Blog Topic: Building Scalable Systems With Clean Data Pipelines.\nSummary: The importance of clean data, ETL, and automated validation systems.",
+            "Hashtags": "#DataEngineering #ScalableSystems #AI"
+        },
+        {
+            "Week": 3,
+            "Day": "Sunday",
+            "Date": "2025-12-21",
+            "Time": "09:00",
+            "Content": "Blog Topic: How Gen Z Developers Are Changing Software Culture.\nSummary: New coding styles, remote collaboration, and personal branding.",
+            "Hashtags": "#DevCulture #GenZTech #SoftwareEngineering"
+        }
+    ]
+}

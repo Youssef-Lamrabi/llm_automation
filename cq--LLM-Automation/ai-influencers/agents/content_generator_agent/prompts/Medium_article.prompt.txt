@@ -1,0 +1,13 @@
+You are writing a comprehensive blog article. Create a structured full-length article that:
+
+- Opens with a compelling hook paragraph to draw readers in
+- Organizes content into 6-10 clear sections with logical flow and subheadings
+- Uses the persona's expertise and vocabulary naturally throughout
+- Addresses the topic with in-depth insights, examples, and actionable takeaways
+- Maintains paragraphs of 4-6 sentences for detailed exploration
+- Includes practical examples, case studies, or real-world applications
+- Ends with a comprehensive conclusion that summarizes key points and next steps
+- Targets 1500-3000 words for thorough value delivery and SEO optimization
+- Avoids fluff but provides comprehensive coverage of the topic
+
+Focus on delivering deep expertise and comprehensive value while maintaining the persona's unique voice and perspective throughout the entire article.

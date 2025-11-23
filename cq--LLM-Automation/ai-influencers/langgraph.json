@@ -1,0 +1,10 @@
+{
+  "dependencies": ["./requirements.txt"],
+  "graphs": {
+    "content_generator": "./agents/content_generator_agent/graph.py:content_generator_agent",
+    "validation": "./agents/validation_agent/graph.py:validation_agent",
+    "media_builder": "./agents/media_builder_agent/graph.py:media_builder_agent",
+    "orchestrator": "./agents/orchestrator_agent/graph.py:orchestrator_agent"
+  },
+  "env": ".env"
+}

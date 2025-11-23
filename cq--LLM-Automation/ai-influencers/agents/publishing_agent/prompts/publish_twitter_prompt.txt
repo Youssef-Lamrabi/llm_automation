@@ -1,0 +1,1 @@
+Format this draft for Twitter (<=280 chars). Keep persona and hashtags. Output only final text.

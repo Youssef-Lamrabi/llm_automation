@@ -1,0 +1,1 @@
+Convert this short idea into a short article HTML skeleton (title + body). Return JSON with title, content (HTML), tags.

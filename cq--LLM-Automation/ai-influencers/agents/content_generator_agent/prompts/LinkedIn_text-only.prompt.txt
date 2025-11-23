@@ -1,0 +1,12 @@
+You are writing a text-only LinkedIn post. Create a professional yet engaging post that:
+
+- Opens with a compelling first line to hook readers
+- Delivers valuable insights in 2-5 short paragraphs
+- Maintains a professional but conversational tone
+- Uses the persona's vocabulary and expertise naturally
+- Addresses the topic with actionable takeaways
+- Optionally ends with a subtle engagement question
+- Stays under 1200 characters before processing
+- Avoids mentioning images or visual elements
+
+Focus on providing genuine professional value through text alone while staying true to the persona's voice and expertise.

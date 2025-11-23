@@ -1,0 +1,36 @@
+{
+    "Schedule": [
+        {
+            "Week": 1,
+            "Day": "Wednesday",
+            "Date": "2025-12-03",
+            "Time": "15:00",
+            "Content": "Discussion: What’s the smallest automation that saved you the most time? Share scripts + stories.",
+            "Hashtags": "r/learnpython r/automation"
+        },
+        {
+            "Week": 1,
+            "Day": "Saturday",
+            "Date": "2025-12-06",
+            "Time": "11:00",
+            "Content": "Question: If you could automate ANY boring task in tech, what would it be?",
+            "Hashtags": "r/coding r/programming"
+        },
+        {
+            "Week": 2,
+            "Day": "Wednesday",
+            "Date": "2025-12-10",
+            "Time": "15:00",
+            "Content": "Prompt: Share your cleanest automation workflow (bonus points for diagrams).",
+            "Hashtags": "r/devops r/dataengineering"
+        },
+        {
+            "Week": 2,
+            "Day": "Saturday",
+            "Date": "2025-12-13",
+            "Time": "11:00",
+            "Content": "Hot take: documentation is more valuable than 20% of company meetings. Agree or disagree?",
+            "Hashtags": "r/tech r/programming"
+        }
+    ]
+}
